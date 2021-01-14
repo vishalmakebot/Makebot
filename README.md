@@ -1,6 +1,26 @@
 
 > Open this page at [https://vishalmakebot.github.io/makebot/](https://vishalmakebot.github.io/makebot/)
 
+
+## Usage 
+
+### Makebot #MakebotMakebot
+
+ blinking an leds by its coordinates.
+
+
+
+
+clone the file and open custom.ts file for source code.
+
+
+## Test cases
+Open test.ts file for see more test cases.
+
+
+
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.

@@ -5,9 +5,9 @@
 //% weight=80 color=#0fbc11 icon=""
 namespace Makebot {
     /**
-     * @param c is for coloum
-     * @param r is for rows 
-     * @param t is for Interval time
+     * @param c is for coloum of led
+     * @param r is for rows of led
+     * @param t is for Interval time 
      */
     //% block="Blink coloum $c row $r Interval time $t"
      //% c.min=0 c.max=4 r.min=0 r.max=4
